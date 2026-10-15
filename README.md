@@ -22,9 +22,10 @@ cadenaspunteros/
 ├── LICENSE
 ├── README.md
 ├── docs/
-│   └── InformeProyectoCADENASPUNTEROS.pdf
+│   └── Informe actividad 4 APA LPR.pdf
 ├── src/
-│   └── main.cpp
+│   ├── main.cpp
+│   └── cadenaspunteros.exe
 └── capturas/
     ├── ejecucion_punteros.png
     └── esquema_ram.png
@@ -59,6 +60,6 @@ La dirección hexadecimal cambia según el equipo y la ejecución.
 
 ## Autor
 
-[Nombre y Apellido]
+Benjamin Hlynczuk
 E.E.S.T. N.º 1 "Eduardo Ader", Vicente López
 Laboratorio de Programación (LPR), 5.º año, 2026
